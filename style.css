@@ -1,0 +1,34 @@
+.item{
+    width: 30%;
+    color:white;
+    padding:10px;
+    border-radius:8px ;
+    margin-left: 5%;
+}
+
+.item1{
+    background-color: #00ccb1;
+  
+}
+.item2{
+    background-color: green;
+   
+}
+.item3{
+    background-color: blue;
+ 
+}
+
+
+
+.list{
+    background-color: transparent;
+    border:none;
+    color: white;
+    text-decoration: underline;
+}
+
+.container{
+    display: flex;
+    width: 80%;
+}
